@@ -41,4 +41,6 @@ Key Skills Demonstrated:
 - Handled dataset with robust functions (NULLIF, COALESCE).
 - Improved dashboard usability with conditional formatting.
   
+View the full sql query: https://github.com/sha-scripts/Restaurant-Funnel-Analysis/blob/main/sql%20query%20code.sql
+View the full dashboard: https://github.com/sha-scripts/Restaurant-Funnel-Analysis/blob/main/visuals.pbix
 Questions or feedback? Connect on LinkedIn: [https://www.linkedin.com/in/shashankwork/]
