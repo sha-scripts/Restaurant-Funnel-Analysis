@@ -1,0 +1,18 @@
+restaurant,area,cuisine,total_menu_opens,total_cart_built,total_orders,cart_conversion_rate,order_conversion_rate,overall_conversion_rate
+"Delhi Zaika",Bandra,"North Indian",12344,3929,2119,31.83,53.93,17.17
+"Bhairav Misal",Bandra,Maharashtrian,7516,2529,1358,33.65,53.7,18.07
+"Oven Story",Malad,Pizza,5010,2156,863,43.03,40.03,17.23
+"Urban Tadka",Bandra,"North Indian",4647,2081,989,44.78,47.53,21.28
+Subway,Andheri,"Fast Food",4304,1745,929,40.54,53.24,21.58
+"Aaswad Express",Andheri,Maharashtrian,2769,1380,872,49.84,63.19,31.49
+"Chai Point",Andheri,Cafe,2495,858,301,34.39,35.08,12.06
+"The Brooks Bistro",Malad,Cafe,2222,354,151,15.93,42.66,6.8
+"Jimis Burger",Malad,"Fast Food",2185,1136,655,51.99,57.66,29.98
+"Cafe Madras",Malad,"South Indian",1828,683,396,37.36,57.98,21.66
+"Anand Bhavan ",Bandra,"South Indian",1805,719,272,39.83,37.83,15.07
+"Banana Leaf ",Bandra,"South Indian",1650,364,146,22.06,40.11,8.85
+"Joeys Pizza",Malad,Pizza,1555,376,237,24.18,63.03,15.24
+Chaitanya,Bandra,Maharashtrian,1215,443,232,36.46,52.37,19.09
+"August Cafe",Andheri,Cafe,991,518,313,52.27,60.42,31.58
+"Backyard Brew",Andheri,Cafe,693,337,147,48.63,43.62,21.21
+"Udipi Shri Krishna",Malad,"South Indian",257,45,20,17.51,44.44,7.78
