@@ -41,7 +41,4 @@ Key Skills Demonstrated:
 - Handled dataset with robust functions (NULLIF, COALESCE).
 - Improved dashboard usability with conditional formatting.
   
-Questions or feedback? Connect on LinkedIn: [https://www.linkedin.com/in/shashankwork/].
-View the full dashboard: [Link to published Power BI if you upload it, or "Download .pbix from repo"].
-
-Questions or feedback? Connect on LinkedIn: [Your Profile Link].
+Questions or feedback? Connect on LinkedIn: [https://www.linkedin.com/in/shashankwork/]
